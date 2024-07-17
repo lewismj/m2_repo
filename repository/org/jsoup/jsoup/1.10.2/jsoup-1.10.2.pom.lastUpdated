@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 17 08:02:01 BST 2024
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1721199721719
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.jsoup\:jsoup\:pom\:1.10.2 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\lewis\\.m2\\repository\\org\\jsoup\\jsoup\\1.10.2\\jsoup-1.10.2.pom.15858924395331328952.tmp -> C\:\\Users\\lewis\\.m2\\repository\\org\\jsoup\\jsoup\\1.10.2\\jsoup-1.10.2.pom

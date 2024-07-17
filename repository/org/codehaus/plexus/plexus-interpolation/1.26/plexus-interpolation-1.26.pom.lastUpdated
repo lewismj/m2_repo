@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 17 08:01:56 BST 2024
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1721199716232
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.codehaus.plexus\:plexus-interpolation\:pom\:1.26 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\lewis\\.m2\\repository\\org\\codehaus\\plexus\\plexus-interpolation\\1.26\\plexus-interpolation-1.26.pom.13301022091288672108.tmp -> C\:\\Users\\lewis\\.m2\\repository\\org\\codehaus\\plexus\\plexus-interpolation\\1.26\\plexus-interpolation-1.26.pom

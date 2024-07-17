@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 17 08:01:59 BST 2024
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1721199719117
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.eclipse.aether\:aether-api\:pom\:0.9.0.M2 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\lewis\\.m2\\repository\\org\\eclipse\\aether\\aether-api\\0.9.0.M2\\aether-api-0.9.0.M2.pom.16449788580583176467.tmp -> C\:\\Users\\lewis\\.m2\\repository\\org\\eclipse\\aether\\aether-api\\0.9.0.M2\\aether-api-0.9.0.M2.pom

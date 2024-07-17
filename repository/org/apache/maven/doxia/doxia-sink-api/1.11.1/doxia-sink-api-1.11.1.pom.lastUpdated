@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 17 08:01:56 BST 2024
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1721199716461
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.doxia\:doxia-sink-api\:pom\:1.11.1 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\lewis\\.m2\\repository\\org\\apache\\maven\\doxia\\doxia-sink-api\\1.11.1\\doxia-sink-api-1.11.1.pom.18084472219732186971.tmp -> C\:\\Users\\lewis\\.m2\\repository\\org\\apache\\maven\\doxia\\doxia-sink-api\\1.11.1\\doxia-sink-api-1.11.1.pom

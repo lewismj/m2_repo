@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 17 08:02:01 BST 2024
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1721199721492
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.vladsch.flexmark\:flexmark-ext-jekyll-tag\:pom\:0.42.14 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\lewis\\.m2\\repository\\com\\vladsch\\flexmark\\flexmark-ext-jekyll-tag\\0.42.14\\flexmark-ext-jekyll-tag-0.42.14.pom.6899091652436143094.tmp -> C\:\\Users\\lewis\\.m2\\repository\\com\\vladsch\\flexmark\\flexmark-ext-jekyll-tag\\0.42.14\\flexmark-ext-jekyll-tag-0.42.14.pom

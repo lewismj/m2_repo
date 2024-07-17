@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 17 08:02:02 BST 2024
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1721199722633
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.velocity\:velocity-tools\:pom\:2.0 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\lewis\\.m2\\repository\\org\\apache\\velocity\\velocity-tools\\2.0\\velocity-tools-2.0.pom.14035707213818617358.tmp -> C\:\\Users\\lewis\\.m2\\repository\\org\\apache\\velocity\\velocity-tools\\2.0\\velocity-tools-2.0.pom
